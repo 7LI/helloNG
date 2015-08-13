@@ -1,0 +1,15 @@
+{
+  "name": "hello-ng",
+  "version": "0.0.1",
+  "authors": [
+    "lyz <702368372@qq.com>"
+  ],
+  "description": "angular hello word",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.3",
+    "angular-route": "~1.4.3",
+    "bootstrap": "~3.3.5",
+    "angular-resource": "~1.4.3"
+  }
+}
